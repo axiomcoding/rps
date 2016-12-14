@@ -1,0 +1,1 @@
+Define a class, `RPS`, that challenges the computer to a game of Rock! Paper! Scissors!
